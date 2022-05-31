@@ -34,14 +34,14 @@ int main()
 
 	int secondNum = 0;
 	cout << "secondNum : ";
-	cin >> secondNum;
+	cin >> secondNum; //cin은 숫자를 입력하는 값
 
 	cout << "= \n";
 
 	cout << firstNum + secondNum << endl;
 
 	const int a = 0; //const는 값 고정
-	constexpr int b = fac(4);
+	constexpr int b = fac(4);//expr 실행될때 연산
 	int c = fac(4);
 }
 */

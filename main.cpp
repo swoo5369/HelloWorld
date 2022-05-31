@@ -29,12 +29,6 @@ int main(int argc, char* argv[])
 
 	//이건 주석
 	
-	이것은
-	여러줄
-	주석
-	
-
-	//숫자는 따옴표 없어도 됨
 	std::cout << "There are " << c1 << " Ways\nI love you." << std::endl;
 	
 	std::cout << "A\nBC\nDEF\nGH" << std::endl;
