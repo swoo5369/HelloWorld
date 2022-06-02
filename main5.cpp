@@ -52,6 +52,7 @@ int main()
 		cout << "cX= " << bitset<8>(cX) << endl;
 		cX = cX >> 2;//오른쪽으로 두개 민다
 		cout << "cX= " << bitset<8>(cX) << endl;
+		//암호화에 사용
 
 		{
 			//형 변환

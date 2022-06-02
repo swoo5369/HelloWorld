@@ -12,9 +12,9 @@ int main(int argc, char* argv[])
 	int a3{ 0 }; //최신
 	
 	리터럴표기법
-	value1 = 0b1001011;//2진법 표기법
-	value1 = 0123;//8진법
-	value1 = 0x9f;//16진법
+	value1 = (0b)1001011;//2진법 표기법
+	value1 = (0)123;//8진법
+	value1 = (0x)9f;//16진법
 
 	signed int value2 = 0; //음수 가능
 	unsigned int value3; //음수 불가능
