@@ -145,6 +145,9 @@
     <ClCompile Include="main2.cpp" />
     <ClCompile Include="main3.cpp" />
     <ClCompile Include="main4.cpp" />
+    <ClCompile Include="main5.cpp" />
+    <ClCompile Include="main6.cpp" />
+    <ClCompile Include="main7.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="employeestruct.h" />

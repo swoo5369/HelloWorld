@@ -11,6 +11,7 @@ int main(int argc, char* argv[])
 	int a2 = { 0 };//최신
 	int a3{ 0 }; //최신
 	
+	리터럴표기법
 	value1 = 0b1001011;//2진법 표기법
 	value1 = 0123;//8진법
 	value1 = 0x9f;//16진법
