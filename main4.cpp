@@ -27,7 +27,7 @@ int main()
 	int a = myPiece;
 
 	PieceType myPiece2 = PieceType::King;
-	//int b = myPiece2;// enum class로 지정하면 타입을 변격할 수 없다
+	//int b = myPiece2;// enum class로 지정하면 타입을 변경할 수 없다
 
 	//직원 레코드 생성 및 값 채우기
 	Employee anEmployee;

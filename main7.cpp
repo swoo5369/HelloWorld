@@ -18,6 +18,10 @@ int main()
 	cout << " * * * * * * * * * * " << endl;
 }
 
+
+
+
+
 {
 	int a, b = { 0 };
 
@@ -29,6 +33,11 @@ int main()
 	cout << hex << uppercase <<  a + b << nouppercase << endl;
 
 }
+
+
+
+
+
 
 {
 
@@ -53,6 +62,9 @@ int main()
 }
 
 
+
+
+
 {
 	int a, b, c = { 0 };
 
@@ -74,6 +86,11 @@ int main()
 	}
 }
 
+
+
+
+
+
 {
 
 	int a = { 0b10101010 };
@@ -84,6 +101,11 @@ int main()
 
 
 }
+
+
+
+
+
 
 {
 	int a, b, c = { 0 };

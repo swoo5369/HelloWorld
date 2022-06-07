@@ -21,7 +21,7 @@ int main()
 		cout << "B가 크다." << endl;
 	}
 
-	if (a > b)
+	if (a > b) //a, b 값바꾸기
 	{
 		int temp = a;
 		a = b;

@@ -1,10 +1,10 @@
+/*
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-	/*
 	int Score = { 0 };
 	cin >> Score;
 
@@ -34,6 +34,11 @@ int main()
 		cout << "F" << endl;
 	}
 
+
+
+
+
+
 	Score /= 10;
 
 	switch (Score)
@@ -42,9 +47,6 @@ int main()
 		[[fallthrough]]
 	case 9:
 		cout << "A" << endl;	
-		break;
-	case 9:
-		cout << "A" << endl;
 		break;
 	case 8:
 		cout << "B" << endl;
@@ -62,6 +64,9 @@ int main()
 		cout << "F" << endl;
 		break;
 	}
+
+
+
 
 	int a, b = { 0 };
 
@@ -84,6 +89,8 @@ int main()
 	}
 	
 
+
+
 	int a, b, c = { 0 };
 
 	cout << "A is ?";
@@ -105,6 +112,10 @@ int main()
 		break;
 	}
 
+
+
+
+
 	int a  = { 0 };
 
 	cout << "1, 2, 3, 4 중 숫자 하나를 입력?" << endl;
@@ -125,7 +136,10 @@ int main()
 		cout << "White" << endl;
 		break;
 	}
-	*/
+
+
+
+
 	
 	int a = { 0 };
 
@@ -150,10 +164,7 @@ int main()
 		cout << "외계인" << endl;
 		break;
 	}
-
-
-
 }
-
+*/
 
 
